@@ -2,9 +2,9 @@ import React from "react";
 
 export const MovieList = () => {
   return (
-    <div>
+    <main>
       <h1> MovieList</h1>{" "}
-    </div>
+    </main>
   );
 };
 
