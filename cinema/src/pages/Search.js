@@ -1,11 +1,10 @@
 import React from 'react'
 
-const Footer = () => {
+export const Search = () => {
   return (
     <div>
-      Footer
+      Seaedera
     </div>
   )
 }
 
-export default Footer

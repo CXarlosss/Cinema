@@ -1,11 +1,10 @@
 import React from 'react'
 
-const Footer = () => {
+export const PageNotFound = () => {
   return (
     <div>
-      Footer
+      Page NotFOund
     </div>
   )
 }
 
-export default Footer
